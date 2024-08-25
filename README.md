@@ -1,12 +1,21 @@
 # Calculadora IMC
-Desc
+Através da linguagem de programação Kotlin, desenvolvi essa calculadora de IMC para um celular android nativo. O seu principal objetivo é calcular o IMC e mostrar o resultado e classificação na tela.
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+<img src= "https://github.com/user-attachments/assets/ea8cff07-487b-4121-b359-c63122889738" width= 160/> <img src= "https://github.com/user-attachments/assets/312c296e-7580-4d2c-ac3f-cbe07a63a8ad" width= 160/>
 
-## Tecnologias
 Techs
+- Intent
+- Activity
+- Snackbar
+- ViewGroup
+- LinearLayout
+- ConstraintLayout
+- Views
+- ImageView
+- TextView
+- EditText
+- Button
 
 
 ## License
